@@ -63,7 +63,7 @@ Before running the project, ensure you have the following:
 );
 
 
-- Step 2: Configure Database Connection
+### Step 2: Configure Database Connection
 Update the DBConnection.java class to use your MySQL database credentials (username, password, and database URL).
 Step 3: Deploy the Project
 Import the project into your IDE (e.g., Eclipse) and run it using Apache Tomcat.
